@@ -1,4 +1,6 @@
-# Angular6Firestore
+# Angular 6 Firebase Tutorial: Firestore CRUD Web Application
+
+This project is part of [Angular 6 Firebase Tutorial: Firestore CRUD Web Application]() tutorial.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
 
